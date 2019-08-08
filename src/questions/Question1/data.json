@@ -1,0 +1,63 @@
+[
+    {
+        "type": "Cleaning",
+        "task": "Water all of the plants",
+        "group": "lundry",
+        "value": 1,
+        "assigned": "Jerry"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Paint the fence",
+        "value": 10,
+        "assigned": "Daniel"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Replace lightbulbs",
+        "value": 3,
+        "assigned": "Jerry"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Clean the bathroom",
+        "value": 5,
+        "assigned": "bryan"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Sweep the kitchen",
+        "value": 1,
+        "assigned": "Sarah"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Take out the garbage",
+        "value": 3,
+        "assigned": "bryan"
+    },
+    {
+        "type": "Cleaning",
+        "task": "Wash the dishes",
+        "value": 3,
+        "assigned": "Sarah"
+    },
+    {
+        "type": "Studying",
+        "task": "Solve math problem",
+        "value": 1,
+        "assigned": "Sarah"
+    },
+    {
+        "type": "Studying",
+        "task": "Build Rocket",
+        "value": 3,
+        "assigned": "bryan"
+    },
+    {
+        "type": "Playing",
+        "task": "Play Football",
+        "value": 3,
+        "assigned": "Sarah"
+    }
+]
