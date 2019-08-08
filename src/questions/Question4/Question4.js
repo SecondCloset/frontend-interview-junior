@@ -7,7 +7,7 @@ const Question4 = props => {
     <div>
       <h2>Question 4</h2>
       <div>
-          <p>Please make the following component friendly to different view ports (mobile, tablets...), shrink your browser and you will see. </p>
+          <p>Please make the following component friendly to different view ports (mobile, tablets, etc.).</p>
           <p>Note: </p>
           <ul>
               <li>You can find the starter code in folder <code>src/questions/Question4</code></li>

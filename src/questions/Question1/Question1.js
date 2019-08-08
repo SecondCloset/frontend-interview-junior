@@ -11,13 +11,13 @@ class Question1 extends React.Component {
             <div>
                 <h2>Question 1</h2>
                 <div>
-                    <p>Please create a component that looks the same as the image below (ignore font-family)</p>
+                    <p>Please recreate the image below as a component (ignore font-family)</p>
                     <p>Note: </p>
                     <ul>
                         <li>You can find the starter code in folder <code>src/questions/Question1</code></li>
-                        <li>Please do not modify<code>src/questions/Question1/data.json</code></li>
-                        <li>You are not allowed to create any other files in this question</li>
-                        <li>You must pass data into <code>CardComponent</code> as a prop</li>
+                        <li>Do not modify <code>src/questions/Question1/data.json</code></li>
+                        <li>No additional files may be created to complete this question</li>
+                        <li>Data must be passed into <code>CardComponent</code> as a prop</li>
                     </ul>
                     <img src={q1_image} alt="q1" style={{width: "auto"}}/>
                 </div>

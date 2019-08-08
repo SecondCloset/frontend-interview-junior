@@ -18,14 +18,13 @@ class Question2 extends React.Component {
             <div>
                 <h2>Question 2</h2>
                 <div>
-                    <p>Please fix the component below OR provide a different implementation so that it works perfectly</p>
-                    <p>Note: </p>
+                    <p>Please modify the component below to have the same behaviour as the component in the gif</p>
+                    <p>Note:</p>
                     <ul>
-                        <li>You can find the starter code in folder <code>src/questions/Question2</code></li>
-                        <li>Calculations should be up to date with <code>clicks</code></li>
-                        <li><button>reset</button> should ONLY reset the calculated value: <code>clicks x 2</code></li>
-                        <li>if you click <button>Add one</button> after <button>reset</button>, should show the updated calculations</li>
-                        <li>Please provide comments on the modifications you make and explain why it fails</li>
+                        <li>Please find the starter code in folder <code>src/questions/Question2</code></li>
+                        <li>Calculated value must be correct based on current <code>clicks</code> after an <button>Add one</button> click</li>
+                        <li><button>reset</button> should set the <code>clicks x 2</code> value to 0, but not affect number of clicks</li>
+                        <li>Clicking <button>Add one</button> after clicking <button>reset</button> should update both values</li>
                     </ul>
                     <FailedComponent/>
 

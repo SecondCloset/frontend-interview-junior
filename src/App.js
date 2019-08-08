@@ -13,14 +13,10 @@ class App extends React.Component {
             Second Closet Interview Session (Frontend)
           </h1>
         </header>
-        <p className="App-intro">
-          Please notice the followings before you start:
-        </p>
+        <p className="App-intro">Please note the following:</p>
         <ul>
-          <li>Has to be your own code</li>
-          <li>
-            You are allowed to install any library to accomplish this test
-          </li>
+          <li>Solutions must be your own code</li>
+          <li>You can install any library to complete the test</li>
         </ul>
         <hr />
         <Question1 />
@@ -33,8 +29,8 @@ class App extends React.Component {
         <hr />
         <div className="happy-ending">
           <p>
-            Hope you enjoy this test, please compress your files into one zip
-            file
+            Hope you enjoyed the test. Please compress your files into one zip
+            file and send it back to us.
           </p>
           <strong>
             DO NOT include <code>node_modules</code> in your zip

@@ -9,7 +9,7 @@ class Question3 extends React.Component {
             <div>
                 <h2>Question 3</h2>
                 <div>
-                    <p>Please re-create the following component with {" "}
+                    <p>Please re-create the component below using {" "}
                         <strong> 
                             <a href={`https://reactjs.org/docs/hooks-intro.html`} target="_blank" rel="noopener noreferrer">React Hooks</a>{" "}
                         </strong> and <strong>SASS</strong>
